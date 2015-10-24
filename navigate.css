@@ -1,0 +1,14 @@
+body{
+
+    margin:0px;
+    overflow-x: hidden;
+}
+
+.page{
+    width: 100vw;
+    height: 100vh;
+    -webkit-transition: margin 0.3s;
+    margin-left: 100vw;
+    position: absolute;
+    display: inline-block;
+}
