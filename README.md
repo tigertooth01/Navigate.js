@@ -6,7 +6,7 @@ Still under development. Not recommended for usage unless specified.
 
 # Installation
 As standalone just include the file in a script tag:
-<script src="navigate.js"></script>
+<pre><script src="navigate.js"></script></pre>
 
 And include the css file
 <link rel="stylesheet" type="text/css" href="navigate.css" />
