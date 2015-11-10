@@ -1,10 +1,10 @@
 # Navigate.js
 A very slim jquery plugin that allows native like page navigation in single page, hybrid mobile apps.
 
-*Still under development. Not recommended for usage unless specified.*
+*v1.0.0 is out! Hopefully it's best for deployment. Fingers crossed!*
 
 ### Version
-0.0.1
+1.0.0
 
 ### Installation
 
@@ -23,7 +23,7 @@ Just include the js and css
 <div class='page' id='page1'>
             <h1>Page 1</h1>
             <p onclick="navigateTo('#page2')">Go to Page 2</p>
-            <p onclick='goBack()'>Back</p>
+            <p onclick='navigateGoBack()'>Back</p>
         </div>
 ```        
 
