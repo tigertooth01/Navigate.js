@@ -4,7 +4,7 @@ A very slim jquery plugin that allows native like page navigation in single page
 *v1.0.0 is out! Hopefully it's best for deployment. Fingers crossed!*
 
 ### Version
-1.0.0
+1.0.1
 
 ### Installation
 
@@ -19,6 +19,8 @@ Just include the js and css
 
 ###Usage
 
+In HTML, define each pages as 'page' class
+
 ```sh
 <div class='page' id='page1'>
             <h1>Page 1</h1>
@@ -26,6 +28,12 @@ Just include the js and css
             <p onclick='navigateGoBack()'>Back</p>
         </div>
 ```        
+
+Initialize navigate.js by calling navigateStart(id), where id is the first page's id.
+
+```sh
+navigateStart('#page1');
+```
 
 License
 ----
