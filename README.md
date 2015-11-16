@@ -19,7 +19,7 @@ Just include the js and css
 
 ###Usage
 
-In HTML, define each pages as 'page' class
+In HTML, define each page as 'page' class
 
 ```sh
 <div class='page' id='page1'>
