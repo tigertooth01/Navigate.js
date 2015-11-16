@@ -3,6 +3,8 @@ A very slim jquery plugin that allows native like page navigation in single page
 
 *v1.0.0 is out! Hopefully it's best for deployment. Fingers crossed!*
 
+###[Demo]
+
 ### Version
 1.0.1
 
@@ -39,3 +41,8 @@ License
 ----
 
 MIT
+
+
+[//]: #
+
+[Demo]: <http://logicgiant.com/demos/navigatejs-demo/>
