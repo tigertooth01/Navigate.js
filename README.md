@@ -31,12 +31,6 @@ In HTML, define each page as 'page' class
         </div>
 ```        
 
-Initialize navigate.js by calling navigateStart(id), where id is the first page's id.
-
-```sh
-navigateStart('#page1');
-```
-
 License
 ----
 
